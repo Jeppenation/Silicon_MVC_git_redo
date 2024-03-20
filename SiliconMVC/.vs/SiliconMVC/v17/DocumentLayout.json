@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|d:\\projects\\silicon_mvc_git\\siliconmvc\\views\\shared\\sections\\_worktoolspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|solutionrelative:views\\shared\\sections\\_worktoolspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|d:\\projects\\silicon_mvc_git\\siliconmvc\\wwwroot\\css\\scss\\sections\\_worktools.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
       "RelativeMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|solutionrelative:wwwroot\\css\\scss\\sections\\_worktools.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|d:\\projects\\silicon_mvc_git\\siliconmvc\\views\\shared\\sections\\_worktoolspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|solutionrelative:views\\shared\\sections\\_worktoolspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5562CB4D-38B5-4FBC-B1A5-38C4CEF29C99}|SiliconMVC.csproj|d:\\projects\\silicon_mvc_git\\siliconmvc\\model\\views\\homeindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Model\\Views\\HomeIndexViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T12:35:56.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T12:35:56.772Z"
             },
             {
               "$type": "Document",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "wwwroot\\css\\scss\\_sections.scss",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-03-20T11:58:10.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T11:58:10.571Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_worktools.scss",
               "DocumentMoniker": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_worktools.scss",
               "RelativeDocumentMoniker": "wwwroot\\css\\scss\\sections\\_worktools.scss",
@@ -79,7 +77,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_WorkToolsPartial.cshtml",
               "DocumentMoniker": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\Views\\Shared\\Sections\\_WorkToolsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\Sections\\_WorkToolsPartial.cshtml",
