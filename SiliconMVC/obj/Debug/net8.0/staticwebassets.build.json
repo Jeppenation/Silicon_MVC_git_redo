@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EseIMZz+H9pp6W0YDpphjO5C1G/hoN5cy51TQWZJKSE=",
+  "Hash": "dMmdgXv0LFa1IH0m22G6avDnI7lt+jP41lfnpmnaLXg=",
   "Source": "SiliconMVC",
   "BasePath": "_content/SiliconMVC",
   "Mode": "Default",
@@ -1668,6 +1668,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\appstore.svg"
+    },
+    {
+      "Identity": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\arrows.svg",
+      "SourceId": "SiliconMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\",
+      "BasePath": "_content/SiliconMVC",
+      "RelativePath": "images/arrows.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\arrows.svg"
     },
     {
       "Identity": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\ContentImage.svg",

@@ -185,6 +185,10 @@
       "PackagePath": "staticwebassets\\images\\appstore.svg"
     },
     {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\arrows.svg",
+      "PackagePath": "staticwebassets\\images\\arrows.svg"
+    },
+    {
       "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_1.svg",
       "PackagePath": "staticwebassets\\images\\features_icon_1.svg"
     },

@@ -1,0 +1,33 @@
+﻿@model SubscribeViewModel
+
+
+
+
+
+<section class="subscribe">
+    <div class="container">
+        <div class="subscribe_title">
+            <h1>Don't Want to Miss Anything?</h1>
+            <img src="/images/arrows.svg" alt="Subscribe" />
+        </div>
+
+        <div class="subscribe_newsletters">
+            <h5>Sign up for Newsletters</h5>
+
+            @foreach (var items in Model.SubscribeItems)
+            {
+                <div class="form_check">
+                    <input class="form_check_input" type="checkbox" value="" id="@items.IdFor" />
+                        <label class="form_check_label" for="@items.IdFor">@items.Title</label>
+                </div>
+            }
+
+            <div class="subscribe_field">
+                <i class="fa-regular fa-envelope"></i>
+                <input class="subscribe_email" type="email" id="email" name="Email" placeholder="Your Email" />
+                <button class="btn-theme" type="submit">Subscribe</button>
+            </div>
+
+        </div>
+    </div>
+</section>

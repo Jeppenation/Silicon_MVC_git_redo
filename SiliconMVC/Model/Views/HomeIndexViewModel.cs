@@ -40,6 +40,20 @@ namespace SiliconMVC.Model.Views
                 ]
         };
 
+        public SubscribeViewModel Subscribe { get; set; } = new()
+        {
+            SubscribeItems =
+            [
+                new() { IdFor = "dailyNewsLetter", Title = "Daily Newsletter"},
+                new() { IdFor = "advertisingUpdates", Title = "Advertising Updates"},
+                new() { IdFor = "weekInReview", Title = "Week in Review"},
+                new() { IdFor = "eventUpdates", Title = "Event Updates"},
+                new() { IdFor = "startupsWeekly", Title = "Startups Weekly"},
+                new() { IdFor = "podcasts", Title = "Podcasts"}
+
+            ]
+        };
+
            
     }
 
