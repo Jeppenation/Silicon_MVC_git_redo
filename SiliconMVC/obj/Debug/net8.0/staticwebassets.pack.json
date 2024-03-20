@@ -1,0 +1,261 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\_sections.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\_sections.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\components\\_links.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_links.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\components\\_miscellaneous.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\components\\_miscellaneous.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\core\\_base.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_base.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\core\\_colors.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_colors.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\core\\_media.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_media.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\core\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\core\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_LightDarkShowcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_LightDarkShowcase.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_account_details.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_account_details.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_appSection.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_appSection.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_contentSection.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_contentSection.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_features.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_features.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_header.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_showcase.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_showcase.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_signup.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_signup.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_singin.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_singin.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_worktools.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_worktools.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\ContentImage.svg",
+      "PackagePath": "staticwebassets\\images\\ContentImage.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\CameraColor.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\CameraColor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Dropbox.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Dropbox.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Evernote.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Evernote.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Google.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Google.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\GoogleColor.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\GoogleColor.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\MailChimp.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\MailChimp.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Slack.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Slack.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Trello.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Trello.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\Zoom.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\Zoom.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Logos\\gmail.svg",
+      "PackagePath": "staticwebassets\\images\\Logos\\gmail.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\MacBook_Pro-dark.svg",
+      "PackagePath": "staticwebassets\\images\\MacBook_Pro-dark.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\MacBook_Pro-light.svg",
+      "PackagePath": "staticwebassets\\images\\MacBook_Pro-light.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Phones_img.svg",
+      "PackagePath": "staticwebassets\\images\\Phones_img.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Profile-image.svg",
+      "PackagePath": "staticwebassets\\images\\Profile-image.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Screen.svg",
+      "PackagePath": "staticwebassets\\images\\Screen.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Showcase-image.svg",
+      "PackagePath": "staticwebassets\\images\\Showcase-image.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Silicon Logotype - Dark Mode.svg",
+      "PackagePath": "staticwebassets\\images\\Silicon Logotype - Dark Mode.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\Silicon Logotype - Light Mode.svg",
+      "PackagePath": "staticwebassets\\images\\Silicon Logotype - Light Mode.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\appstore.svg",
+      "PackagePath": "staticwebassets\\images\\appstore.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_1.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_2.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_3.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_3.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_4.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_4.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_5.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_5.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\features_icon_6.svg",
+      "PackagePath": "staticwebassets\\images\\features_icon_6.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\googleplay.svg",
+      "PackagePath": "staticwebassets\\images\\googleplay.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\logo1.svg",
+      "PackagePath": "staticwebassets\\images\\logo1.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\logo2.svg",
+      "PackagePath": "staticwebassets\\images\\logo2.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\logo3.svg",
+      "PackagePath": "staticwebassets\\images\\logo3.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\logo4.svg",
+      "PackagePath": "staticwebassets\\images\\logo4.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\images\\macbook-pro-dark.svg",
+      "PackagePath": "staticwebassets\\images\\macbook-pro-dark.svg"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\js\\validation.js",
+      "PackagePath": "staticwebassets\\js\\validation.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SiliconMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SiliconMVC.props",
+      "PackagePath": "build\\SiliconMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SiliconMVC.props",
+      "PackagePath": "buildMultiTargeting\\SiliconMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SiliconMVC.props",
+      "PackagePath": "buildTransitive\\SiliconMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
