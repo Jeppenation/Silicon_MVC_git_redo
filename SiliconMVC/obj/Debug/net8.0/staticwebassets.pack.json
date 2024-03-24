@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_singin.scss"
     },
     {
+      "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_subscribe.scss"
+    },
+    {
       "Id": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_worktools.scss",
       "PackagePath": "staticwebassets\\css\\scss\\sections\\_worktools.scss"
     },

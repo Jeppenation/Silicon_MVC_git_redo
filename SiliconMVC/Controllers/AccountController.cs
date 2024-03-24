@@ -17,11 +17,15 @@ namespace SiliconMVC.Controllers
         private readonly UserManager<UserEntity> _userManager = userManager;
         private readonly AddressService _addressService = addressService;
 
+        [Authorize]
         #region Details [HttpGet]
         [Route("/account")]
         [HttpGet]
         public async Task<IActionResult> Details()
         {
+            var claims = HttpContext.User.Identities.FirstOrDefault();
+
+
             var viewModel = new AccountDetailsViewModel();
             viewModel.ProfileInfo = await PopulateProfileInfoAsync();
             viewModel.BasicInfo ??= await PopulateBasicInfoAsync();

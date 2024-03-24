@@ -11,23 +11,42 @@
             <img src="/images/arrows.svg" alt="Subscribe" />
         </div>
 
+
         <div class="subscribe_newsletters">
-            <h5>Sign up for Newsletters</h5>
 
-            @foreach (var items in Model.SubscribeItems)
-            {
-                <div class="form_check">
-                    <input class="form_check_input" type="checkbox" value="" id="@items.IdFor" />
+            <div class="subscribe_newsletters_text">
+                <h5>Sign up for Newsletters</h5>
+
+            </div>
+
+            <div class="subscribe_newsletters_boxes">
+                @foreach (var items in Model.SubscribeItems)
+                {
+                    <div class="form_check">
+                        <input class="form_check_input" type="checkbox" value="" id="@items.IdFor" />
                         <label class="form_check_label" for="@items.IdFor">@items.Title</label>
-                </div>
-            }
-
-            <div class="subscribe_field">
-                <i class="fa-regular fa-envelope"></i>
-                <input class="subscribe_email" type="email" id="email" name="Email" placeholder="Your Email" />
-                <button class="btn-theme" type="submit">Subscribe</button>
+                    </div>
+                }
             </div>
 
         </div>
+
+
+
+       
+
+
+        <div class="subscribe_field">
+            <i class="fa-regular fa-envelope"></i>
+            <input class="subscribe_email" type="email" id="email" name="Email" placeholder="Your Email" />
+            <button class="btn-theme" type="submit">Subscribe</button>
+        </div>
+
+        <p class="terms">
+           <span class="blue_star">*</span> Yes, I agree to the
+            <a href="#">terms</a> and <a href="#">privacy policy</a>
+        </p>
+
+        
     </div>
 </section>

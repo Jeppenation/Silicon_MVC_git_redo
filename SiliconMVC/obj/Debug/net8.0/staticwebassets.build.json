@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dMmdgXv0LFa1IH0m22G6avDnI7lt+jP41lfnpmnaLXg=",
+  "Hash": "L1/jhtfdx6l3OnzHyM7WoszCVSjNJ7rNnCU+WXulloM=",
   "Source": "SiliconMVC",
   "BasePath": "_content/SiliconMVC",
   "Mode": "Default",
@@ -1554,6 +1554,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_singin.scss"
+    },
+    {
+      "Identity": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_subscribe.scss",
+      "SourceId": "SiliconMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\",
+      "BasePath": "_content/SiliconMVC",
+      "RelativePath": "css/scss/sections/_subscribe.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\scss\\sections\\_subscribe.scss"
     },
     {
       "Identity": "D:\\Projects\\Silicon_MVC_git\\SiliconMVC\\wwwroot\\css\\scss\\sections\\_worktools.scss",
